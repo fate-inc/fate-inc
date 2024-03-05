@@ -1,0 +1,6 @@
+- 🙄 Hi, I’m Zex
+- 🌀 I'm interested in nothing.
+- 🔍 I’m currently learning Reverse Engineering.
+- 🖕 Collaboration? Not my thing.
+- 🚫 Reach me on Discord: goddesszex.dev, but I'd prefer if you don't bother.
+- 🤦‍♀️ Pronouns: she/her
