@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://assets.fate.ovh/github/readme.svg" alt="fate-inc" />
+</h1>
+
 # I'm <span style="color:rgb(84,74,255);"> Yden</span>, also known as Zex.
 If you're struggling to pronounce my name, that's a **you** problem.
 
