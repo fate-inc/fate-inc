@@ -20,7 +20,7 @@ If you're struggling to pronounce my name, that's a **you** problem.
 $yden = [
     "name" => "Yden",
     "pronouns" => "she/her",
-    "age" => "17",
+    "age" => "18",
     "country" => "Belgium",
     "languages" => ["Dutch", "English", "French"],
     "code" => ["C", "C++", "C#", "CSS", "PHP", "JavaScript"],
